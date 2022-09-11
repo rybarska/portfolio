@@ -17,7 +17,8 @@ function Portfolio() {
               Portfolio
             </h1>
             <p className="description">
-              Incididunt in cillum magna occaecat nisi qui in.
+              {' '}
+              Now we see but a poor reflection as in a mirror.
             </p>
 
             <div className="portfolio-wrapper">
